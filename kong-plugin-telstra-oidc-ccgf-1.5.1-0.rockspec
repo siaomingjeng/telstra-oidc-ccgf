@@ -1,5 +1,5 @@
 package = "kong-plugin-telstra-oidc-ccgf"
-version = "1.4.0-0"
+version = "1.5.1-0"
 
 source = {
   url = "https://github.com/siaomingjeng/telstra-oidc-ccgf.git",
